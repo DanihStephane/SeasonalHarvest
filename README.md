@@ -7,6 +7,12 @@ Une application web moderne pour découvrir les fruits et légumes de saison à 
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+![Capture d’écran du 2025-01-06 12-35-10](https://github.com/user-attachments/assets/29c58a6d-4e67-4648-99f5-fdab92f93a7e)
+![Capture d’écran du 2025-01-06 12-35-20](https://github.com/user-attachments/assets/3acdfdef-9d57-4bd2-afba-81663f8ef854)
+![Capture d’écran du 2025-01-06 12-35-28](https://github.com/user-attachments/assets/a04a5c88-219f-4b25-8f65-ad23a913c7ec)
+
+
+
 ## ✨ Fonctionnalités
 
 - 📅 Calendrier interactif des fruits et légumes par mois
