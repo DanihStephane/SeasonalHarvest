@@ -1,4 +1,4 @@
-Application encore en cours ... Origine : **Calendrier des fruits et légumes de saison**
+Application encore en cours surtout au niveau de la carte SVG de Madagascar ... Origine : **Calendrier des fruits et légumes de saison**
 
 # 🌱 Calendrier des Fruits et Légumes de Madagascar
 
