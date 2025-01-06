@@ -1,3 +1,5 @@
+Application encore en cours ... Origine : **Calendrier des fruits et légumes de saison**
+
 # 🌱 Calendrier des Fruits et Légumes de Madagascar
 
 Une application web moderne pour découvrir les fruits et légumes de saison à Madagascar, région par région.
