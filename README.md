@@ -30,7 +30,7 @@ Une application web moderne pour découvrir les fruits et légumes de saison à 
 
 ```bash
 # Cloner le repository
-git clone [url-du-repo]
+git clone git@github.com:DanihStephane/SeasonalHarvest.git
 
 # Installer les dépendances
 npm install
