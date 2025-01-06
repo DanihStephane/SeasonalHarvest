@@ -91,7 +91,7 @@ L'interface s'adapte automatiquement aux différentes tailles d'écran :
 
 ## 📄 License
 
-MIT License - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
+free : https://github.com/DanihStephane
 
 ## 🤝 Contribution
 
